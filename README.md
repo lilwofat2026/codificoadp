@@ -27,7 +27,7 @@ referrerpolicy="no-referrer"
 </div>
 <div class="content-border">
 <div class="header">
-<h1><i class="fas fa-share-nodes"></i>Mis Redes Sociales</h1>
+<h1><i class="fas fa-share-nodes"><</h1>
 <span style="color:rgba(0, 255, 255);">Sigame y Deja tu Like</span>
 </div>
 <div class="menu-container">
